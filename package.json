@@ -1,0 +1,15 @@
+{
+  "name": "sharepoint-dev",
+  "version": "1.0.0",
+  "description": "My First node.js project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "TJohnson",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "gulp-serve": "^1.4.0"
+  }
+}
